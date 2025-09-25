@@ -1,5 +1,4 @@
-# 🚀 Neovim IDE Configuration - Trải nghiệm như VSCode/Cursor
-
+# 🚀 Neovim IDE Configuration
 ## 📋 Tổng quan
 Cấu hình này biến Neovim thành một IDE hiện đại với tất cả các tính năng bạn yêu cầu:
 
